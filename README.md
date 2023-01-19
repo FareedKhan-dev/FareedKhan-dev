@@ -13,11 +13,11 @@
 
 - 📄 Know about my experiences [https://fareedkhan-dev.github.io/portfolio/](https://fareedkhan-dev.github.io/portfolio/)
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/fareed-khan-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fareed-khan-dev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13202252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13202252" height="30" width="40" /></a>
@@ -96,5 +96,7 @@
             src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> </a>  <br>
  </p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fareedkhan-dev&show_icons=true&locale=en&layout=compact" alt="fareedkhan-dev" /></p>
-
+<div style="display: flex; justify-content: space-between;">
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fareedkhan-dev&" alt="fareedkhan-dev" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fareedkhan-dev&show_icons=true&locale=en" alt="fareedkhan-dev" /></p>
+</div>

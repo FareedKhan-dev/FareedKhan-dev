@@ -1,24 +1,22 @@
 ![logo](https://github.com/FareedKhan-dev/FareedKhan-dev/blob/main/Data%20Science.jpg)
 <h1 align="center">Meet Fareed Hassan Khan</h1>
 <h3 align="center">A Data Scientist</h3>
+<p align="center">Ask me about <strong>Machine Learning, NLP, Big Data, Social Network Anlaysis, Cloud Security, Reinforcement Learning</strong></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fareedkhan-dev" alt="fareedkhan-dev" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://fareedkhan-dev.github.io/portfolio/](https://fareedkhan-dev.github.io/portfolio/)
+______________
 
-- 📝 I regularly write articles on [https://medium.com/@fareedkhandev](https://medium.com/@fareedkhandev)
-
-- 💬 Ask me about **Machine Learning, NLP, Big Data, Social Network Anlaysis, Cloud Security, Reinforcement Learning**
-
-- 📫 How to reach me **fareedhassankhan12@gmail.com**
-
-- 📄 Know about my experiences [https://fareedkhan-dev.github.io/portfolio/](https://fareedkhan-dev.github.io/portfolio/)
-
+<p align="center">[<a href="https://fareedkhan-dev.github.io/portfolio/">Website</a>]</p> 
+<p align="center">[<a href="https://medium.com/@fareedkhandev">Blog</a>]</p> 
+<p align="center">[<a href="fareedhassankhan12@gmail.com">Contact</a>]</p> 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="center">Connect with me:</h3>
+______________
+
+<h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://linkedin.com/in/fareed-khan-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fareed-khan-dev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13202252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13202252" height="30" width="40" /></a>
@@ -27,7 +25,10 @@
 <a href="https://codepen.io/fareedkhan557" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fareedkhan557" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+______________
+
+
+<h3 align="center">Languages and Tools</h3>
 <p align="center">     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
             height="40" /> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
@@ -96,6 +97,9 @@
     </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> </a>  <br>
  </p>
+ 
+______________
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fareedkhan-dev&show_icons=true&locale=en&layout=compact" alt="fareedkhan-dev" /></p>
 <div style="display: flex; justify-content: space-between;">
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fareedkhan-dev&" alt="fareedkhan-dev" /></p>

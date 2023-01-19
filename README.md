@@ -1,7 +1,7 @@
 <h1 align="center">Meet Fareed Hassan Khan</h1>
 <h3 align="center">A Data Scientist</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fareedkhan-dev" alt="fareedkhan-dev" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fareedkhan-dev" alt="fareedkhan-dev" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://fareedkhan-dev.github.io/portfolio/](https://fareedkhan-dev.github.io/portfolio/)
 

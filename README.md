@@ -1,3 +1,4 @@
+![logo](https://github.com/FareedKhan-dev/FareedKhan-dev/blob/main/Data%20Science.jpg)
 <h1 align="center">Meet Fareed Hassan Khan</h1>
 <h3 align="center">A Data Scientist</h3>
 

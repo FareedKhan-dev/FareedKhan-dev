@@ -9,7 +9,7 @@ ______________
 
 <p align="center">[<a href="https://fareedkhan-dev.github.io/portfolio/">Website</a>]</p> 
 <p align="center">[<a href="https://medium.com/@fareedkhandev">Blog</a>]</p> 
-<p align="center">[<a href="fareedhassankhan12@gmail.com">Contact</a>]</p> 
+<!-- <p align="center">[<a href="fareedhassankhan12@gmail.com">Contact</a>]</p>  -->
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->

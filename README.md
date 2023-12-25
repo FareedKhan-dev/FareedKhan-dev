@@ -3,12 +3,10 @@
 <h3 align="center">A Data Scientist</h3>
 <p align="center">Ask me about <strong>Machine Learning, NLP, Big Data, Social Network Anlaysis, Cloud Security, Reinforcement Learning</strong></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fareedkhan-dev" alt="fareedkhan-dev" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fareedkhan-dev" alt="fareedkhan-dev" /></a> </p> -->
 
-______________
-
-<p align="center">[<a href="https://fareedkhan-dev.github.io/portfolio/">Website</a>]</p> 
-<p align="center">[<a href="https://medium.com/@fareedkhandev">Blog</a>]</p> 
+<!-- <p align="center">[<a href="https://fareedkhan-dev.github.io/portfolio/">Website</a>]</p> --> 
+<!-- <p align="center">[<a href="https://medium.com/@fareedkhandev">Blog</a>]</p>  -->
 <!-- <p align="center">[<a href="fareedhassankhan12@gmail.com">Contact</a>]</p>  -->
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->

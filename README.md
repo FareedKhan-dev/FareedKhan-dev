@@ -25,12 +25,12 @@ ______________
 
 ______________
 
+<!-- <img
+            src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
+-->
 
 <h3 align="center">Languages and Tools</h3>
-<p align="center">     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
-            height="40" /> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
-            src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a> <br><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img
+<p align="center">   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" /> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">   </a> <br><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40"
             height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"

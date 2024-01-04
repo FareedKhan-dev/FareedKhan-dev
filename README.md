@@ -1,4 +1,4 @@
-![logo](https://github.com/FareedKhan-dev/FareedKhan-dev/blob/main/Data%20Science.jpg)
+![logo](https://github.com/FareedKhan-dev/FareedKhan-dev/blob/main/aic.jpg)
 <h1 align="center">Meet Fareed Hassan Khan</h1>
 <h3 align="center">A Data Scientist</h3>
 <p align="center">Ask me about <strong>Machine Learning, NLP, Deep Learning, Big Data, Social Network Anlaysis, Cloud Security, Reinforcement Learning</strong></p>

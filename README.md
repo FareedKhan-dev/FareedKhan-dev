@@ -18,9 +18,9 @@ ______________
 <p align="center">
 <a href="https://linkedin.com/in/fareed-khan-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fareed-khan-dev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13202252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13202252" height="30" width="40" /></a>
-<a href="https://kaggle.com/fareedkhan557" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fareedkhan557" height="30" width="40" /></a>
+<!-- <a href="https://kaggle.com/fareedkhan557" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fareedkhan557" height="30" width="40" /></a> -->
 <a href="https://medium.com/@fareedkhandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fareedkhandev" height="30" width="40" /></a>
-<a href="https://codepen.io/fareedkhan557" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fareedkhan557" height="30" width="40" /></a>
+<!-- <a href="https://codepen.io/fareedkhan557" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fareedkhan557" height="30" width="40" /></a> -->
 </p>
 
 ______________

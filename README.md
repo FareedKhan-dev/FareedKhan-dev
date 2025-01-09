@@ -1,4 +1,4 @@
-![logo](https://github.com/FareedKhan-dev/FareedKhan-dev/blob/main/nn.jpeg)
+![logo](https://github.com/FareedKhan-dev/FareedKhan-dev/blob/main/tj_ai.png)
 <!-- <h1 align="center">Meet Fareed Hassan Khan</h1>-->
 <p align="center">Ask me about <strong>Machine Learning, NLP, Deep Learning, Big Data, Social Network Anlaysis, Cloud Security, Reinforcement Learning</strong></p>
 

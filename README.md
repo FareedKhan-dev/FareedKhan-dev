@@ -1,7 +1,7 @@
 <!-- ![logo](https://github.com/FareedKhan-dev/FareedKhan-dev/blob/main/tj_ai.png) -->
 <!-- <h1 align="center">Meet Fareed Hassan Khan</h1>-->
 <p align="center">
-  I am looking for a PhD/Job in AI. Take a look at my <a href="https://drive.google.com/file/d/1XoUQD7kVetdQRq77p8A1KXq5NOh3oYqI/view">Resume</a>.
+  I am looking for a PhD/Job in AI. Take a look at my <a href="https://drive.google.com/file/d/1Q_iklJ1RVGSb-Pdey8BHy3k8IF3UJv0z/view?usp=sharing">Resume</a>.
 </p>
 
 
